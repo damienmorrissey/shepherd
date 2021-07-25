@@ -142,34 +142,35 @@ regions:
       - 7flixPrime
       - 7mate
       - 7TWO
-      - 9HD
-      - 9Life
-      - ABC
-      - ABC HD
-      - ABC COMEDY/ABC KIDS
-      - ABCME
-      - ABCNEWS
-      - Aspire
-      - ELEVEN
-      - Food Network
-      - GEM
-      - GO!
+      - PRIME7
+      - PRIME7 HD
+      - RACING.COM
       - ishoptv
       - Nine
-      - NITV
-      - ONE
-      - PRIME7
-      - RACING.COM
+      - 9Gem
+      - 9Go!
+      - 9HD
+      - 9Life
+      - TVSN
+      - Gold
+      - ABC
+      - ABC HD
+      - ABC Kids/ABC TV Plus
+      - ABCME
+      - ABCNEWS
       - SBS
       - SBS HD
-      - SBSVICELAND
       - SBSVICELANDHD
-      - TVSN
-      - WIN
-      - WIN HD
-      - WINGOLD
-      - PRIME7 HD
+      - SBS World Movies
+      - SBS Food
+      - NITV
+      - 10
+      - 10 Bold
+      - 10 HD
+      - 10 Peach
+      - 10 Shake
       - SBN
+      - Aspire
   73:
     state: NSW
     name: "Sydney"
